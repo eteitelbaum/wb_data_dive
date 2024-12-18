@@ -1,0 +1,802 @@
+Country Name,Country Code,Series Name,Series Code,2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021]
+Afghanistan,AFG,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,19.8,..,..,..,..,..,..
+Afghanistan,AFG,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Afghanistan,AFG,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Afghanistan,AFG,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Albania,ALB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,84.6,..,..,..
+Albania,ALB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Albania,ALB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Albania,ALB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Algeria,DZA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,98.8,..,..
+Algeria,DZA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Algeria,DZA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Algeria,DZA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Andorra,AND,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Andorra,AND,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Andorra,AND,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Andorra,AND,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Angola,AGO,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,13.2,..,..,..,..,..
+Angola,AGO,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Angola,AGO,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Angola,AGO,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Antigua and Barbuda,ATG,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Antigua and Barbuda,ATG,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Antigua and Barbuda,ATG,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Argentina,ARG,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,98,..
+Argentina,ARG,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Argentina,ARG,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Argentina,ARG,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Armenia,ARM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,98.6,..,..,..,..,..
+Armenia,ARM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Armenia,ARM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Armenia,ARM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Australia,AUS,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+Australia,AUS,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Australia,AUS,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Australia,AUS,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Austria,AUT,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+Austria,AUT,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Austria,AUT,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Austria,AUT,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Azerbaijan,AZE,Birth certification (%),ID.OWN.BRTH.ZS,88.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Azerbaijan,AZE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Azerbaijan,AZE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Azerbaijan,AZE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Bahamas, The",BHS,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Bahamas, The",BHS,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Bahamas, The",BHS,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Bahamas, The",BHS,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bahrain,BHR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bahrain,BHR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bahrain,BHR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bahrain,BHR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bangladesh,BGD,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,39.1,..,..
+Bangladesh,BGD,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bangladesh,BGD,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bangladesh,BGD,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Barbados,BRB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,97.9,..,..,..,..,..,..,..,..,..
+Barbados,BRB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Barbados,BRB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Barbados,BRB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Belarus,BLR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Belarus,BLR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Belarus,BLR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Belgium,BEL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+Belgium,BEL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Belgium,BEL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Belgium,BEL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Belize,BLZ,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,85.8,..,..,..,..,..
+Belize,BLZ,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Belize,BLZ,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Belize,BLZ,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Benin,BEN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,63.8,..,..,..
+Benin,BEN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Benin,BEN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Benin,BEN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Bhutan,BTN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,99.7,..,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bhutan,BTN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bhutan,BTN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bolivia,BOL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,91.9,..,..,..,..,..
+Bolivia,BOL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bolivia,BOL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bolivia,BOL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bosnia and Herzegovina,BIH,Birth certification (%),ID.OWN.BRTH.ZS,97.8,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bosnia and Herzegovina,BIH,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bosnia and Herzegovina,BIH,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Botswana,BWA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,87.5,..,..,..,..
+Botswana,BWA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Botswana,BWA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Botswana,BWA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Brazil,BRA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Brazil,BRA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Brazil,BRA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Brazil,BRA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Brunei Darussalam,BRN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Brunei Darussalam,BRN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Brunei Darussalam,BRN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Brunei Darussalam,BRN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bulgaria,BGR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Bulgaria,BGR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bulgaria,BGR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Bulgaria,BGR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Burkina Faso,BFA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,52.3,..,..,..,..,..,..,..,..,..,..,..
+Burkina Faso,BFA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Burkina Faso,BFA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Burkina Faso,BFA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Burundi,BDI,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,66.2,..,..,..,..
+Burundi,BDI,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Burundi,BDI,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Burundi,BDI,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Cabo Verde,CPV,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Cabo Verde,CPV,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cabo Verde,CPV,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cabo Verde,CPV,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cambodia,KHM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,63.9,..,..,..,..,..,..,..
+Cambodia,KHM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cambodia,KHM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Cambodia,KHM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Cameroon,CMR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,48.9,..,..,..
+Cameroon,CMR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cameroon,CMR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Cameroon,CMR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Canada,CAN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+Canada,CAN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Canada,CAN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Canada,CAN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Central African Republic,CAF,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,31.8,..,..
+Central African Republic,CAF,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Central African Republic,CAF,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Central African Republic,CAF,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Chad,TCD,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,22.6,..,..
+Chad,TCD,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Chad,TCD,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Chad,TCD,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Chile,CHL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Chile,CHL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Chile,CHL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Chile,CHL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+China,CHN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+China,CHN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+China,CHN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+China,CHN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Colombia,COL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Colombia,COL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Colombia,COL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Colombia,COL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Comoros,COM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,76.4,..,..,..,..,..,..,..,..,..
+Comoros,COM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Comoros,COM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Comoros,COM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Congo, Dem. Rep.",COD,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,35.4,..,..,..
+"Congo, Dem. Rep.",COD,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Congo, Dem. Rep.",COD,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Congo, Dem. Rep.",COD,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Congo, Rep.",COG,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,87.2,..,..,..,..,..,..
+"Congo, Rep.",COG,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Congo, Rep.",COG,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Congo, Rep.",COG,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Costa Rica,CRI,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Costa Rica,CRI,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Costa Rica,CRI,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Costa Rica,CRI,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Cote d'Ivoire,CIV,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,59.5,..,..,..,..,..
+Cote d'Ivoire,CIV,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cote d'Ivoire,CIV,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cote d'Ivoire,CIV,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Croatia,HRV,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Croatia,HRV,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Croatia,HRV,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Croatia,HRV,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cuba,CUB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.5,..,..
+Cuba,CUB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cuba,CUB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Cuba,CUB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Cyprus,CYP,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+Cyprus,CYP,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Cyprus,CYP,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Cyprus,CYP,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Czechia,CZE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Czechia,CZE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Czechia,CZE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Czechia,CZE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Denmark,DNK,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Denmark,DNK,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Denmark,DNK,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Denmark,DNK,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Djibouti,DJI,Birth certification (%),ID.OWN.BRTH.ZS,89.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Djibouti,DJI,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Djibouti,DJI,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Djibouti,DJI,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Dominica,DMA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Dominica,DMA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Dominica,DMA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Dominica,DMA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Dominican Republic,DOM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,88.5,..,..
+Dominican Republic,DOM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Dominican Republic,DOM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Dominican Republic,DOM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Ecuador,ECU,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ecuador,ECU,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ecuador,ECU,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Egypt, Arab Rep.",EGY,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,99.1,..,..,..,..,..,..,..
+"Egypt, Arab Rep.",EGY,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Egypt, Arab Rep.",EGY,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Egypt, Arab Rep.",EGY,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+El Salvador,SLV,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,91.2,..,..,..
+El Salvador,SLV,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+El Salvador,SLV,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+El Salvador,SLV,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Equatorial Guinea,GNQ,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,50.6,..,..,..,..,..,..,..,..,..,..
+Equatorial Guinea,GNQ,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Equatorial Guinea,GNQ,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Equatorial Guinea,GNQ,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Eritrea,ERI,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Eritrea,ERI,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Estonia,EST,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Estonia,EST,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Estonia,EST,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Estonia,EST,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Eswatini,SWZ,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,37,..,..,..,..,..,..,..
+Eswatini,SWZ,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Eswatini,SWZ,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Eswatini,SWZ,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Ethiopia,ETH,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,1.6,..,..,..,..,..
+Ethiopia,ETH,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Ethiopia,ETH,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Ethiopia,ETH,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Fiji,FJI,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Fiji,FJI,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Fiji,FJI,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Fiji,FJI,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Finland,FIN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Finland,FIN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Finland,FIN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Finland,FIN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+France,FRA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+France,FRA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+France,FRA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+France,FRA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Gabon,GAB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,71.5,..,..,..,..,..,..,..,..,..
+Gabon,GAB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Gabon,GAB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Gabon,GAB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Gambia, The",GMB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,47.8,..
+"Gambia, The",GMB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Gambia, The",GMB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Gambia, The",GMB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Georgia,GEO,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Georgia,GEO,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Georgia,GEO,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Georgia,GEO,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Germany,DEU,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Germany,DEU,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Germany,DEU,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Germany,DEU,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ghana,GHA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,61.8803822061386,..,..,..
+Ghana,GHA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ghana,GHA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ghana,GHA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Greece,GRC,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Greece,GRC,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Greece,GRC,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Greece,GRC,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Grenada,GRD,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Grenada,GRD,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Grenada,GRD,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Grenada,GRD,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Guatemala,GTM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Guatemala,GTM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Guatemala,GTM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Guatemala,GTM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Guinea,GIN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,50.9,..,..,..
+Guinea,GIN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Guinea,GIN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Guinea,GIN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Guinea-Bissau,GNB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,36.3,..,..
+Guinea-Bissau,GNB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Guinea-Bissau,GNB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Guinea-Bissau,GNB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Guyana,GUY,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Guyana,GUY,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Guyana,GUY,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Guyana,GUY,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Haiti,HTI,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,77,..,..,..,..
+Haiti,HTI,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Haiti,HTI,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Haiti,HTI,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Honduras,HND,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,92.2,..,..
+Honduras,HND,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Honduras,HND,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Honduras,HND,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Hong Kong SAR, China",HKG,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Hong Kong SAR, China",HKG,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Hong Kong SAR, China",HKG,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Hong Kong SAR, China",HKG,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Hungary,HUN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Hungary,HUN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Hungary,HUN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Hungary,HUN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Iceland,ISL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Iceland,ISL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Iceland,ISL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Iceland,ISL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+India,IND,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,74.9
+India,IND,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+India,IND,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+India,IND,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Indonesia,IDN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,77
+Indonesia,IDN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Indonesia,IDN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Indonesia,IDN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Iran, Islamic Rep.",IRN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Iran, Islamic Rep.",IRN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Iran, Islamic Rep.",IRN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Iran, Islamic Rep.",IRN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Iraq,IRQ,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,93.2,..,..,..
+Iraq,IRQ,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Iraq,IRQ,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Iraq,IRQ,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Ireland,IRL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Ireland,IRL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ireland,IRL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ireland,IRL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Israel,ISR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Israel,ISR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Israel,ISR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Israel,ISR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Italy,ITA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Italy,ITA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Italy,ITA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Italy,ITA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Jamaica,JAM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Jamaica,JAM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Jamaica,JAM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Jamaica,JAM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Japan,JPN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+Japan,JPN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Japan,JPN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Japan,JPN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Jordan,JOR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,88.8,..,..,..
+Jordan,JOR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Jordan,JOR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Jordan,JOR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kazakhstan,KAZ,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,99.5,..,..,..,..,..,..
+Kazakhstan,KAZ,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kazakhstan,KAZ,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kazakhstan,KAZ,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kenya,KEN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,24.1,..,..,..,..,..,..,..
+Kenya,KEN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kenya,KEN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kenya,KEN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Kiribati,KIR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,59.1,..,..
+Kiribati,KIR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kiribati,KIR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Kiribati,KIR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Korea, Dem. People's Rep.",PRK,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,98.9,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Korea, Dem. People's Rep.",PRK,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Korea, Rep.",KOR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Rep.",KOR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Korea, Rep.",KOR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Korea, Rep.",KOR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kosovo,XKX,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,88.9,..
+Kosovo,XKX,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kosovo,XKX,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kosovo,XKX,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kuwait,KWT,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Kuwait,KWT,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kuwait,KWT,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kuwait,KWT,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kyrgyz Republic,KGZ,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,97.1,..,..,..
+Kyrgyz Republic,KGZ,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kyrgyz Republic,KGZ,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Kyrgyz Republic,KGZ,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lao PDR,LAO,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,54.5,..,..,..,..
+Lao PDR,LAO,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lao PDR,LAO,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Lao PDR,LAO,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Latvia,LVA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Latvia,LVA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Latvia,LVA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Latvia,LVA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lebanon,LBN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,98,..,..,..,..,..
+Lebanon,LBN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lebanon,LBN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Lebanon,LBN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Lesotho,LSO,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,37.5,..,..,..
+Lesotho,LSO,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lesotho,LSO,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lesotho,LSO,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Liberia,LBR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,30.2673541453199,..
+Liberia,LBR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Liberia,LBR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Liberia,LBR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Libya,LBY,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Libya,LBY,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Libya,LBY,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Libya,LBY,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Liechtenstein,LIE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Liechtenstein,LIE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Liechtenstein,LIE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Liechtenstein,LIE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lithuania,LTU,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Lithuania,LTU,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lithuania,LTU,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Lithuania,LTU,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Luxembourg,LUX,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Luxembourg,LUX,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Luxembourg,LUX,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Luxembourg,LUX,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Macao SAR, China",MAC,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Macao SAR, China",MAC,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Macao SAR, China",MAC,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Macao SAR, China",MAC,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Madagascar,MDG,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,63.3,..,..,..
+Madagascar,MDG,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Madagascar,MDG,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Madagascar,MDG,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Malawi,MWI,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,22.2,..
+Malawi,MWI,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Malawi,MWI,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Malawi,MWI,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Malaysia,MYS,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Malaysia,MYS,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Malaysia,MYS,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Malaysia,MYS,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Maldives,MDV,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,91.5,..,..,..,..
+Maldives,MDV,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Maldives,MDV,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Maldives,MDV,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mali,MLI,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,77.489020258836,..,..,..
+Mali,MLI,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mali,MLI,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mali,MLI,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Malta,MLT,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Malta,MLT,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Malta,MLT,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Malta,MLT,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Marshall Islands,MHL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,79.4,..,..,..,..
+Marshall Islands,MHL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Marshall Islands,MHL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Marshall Islands,MHL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Mauritania,MRT,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,65.6,..,..,..,..,..,..
+Mauritania,MRT,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mauritania,MRT,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mauritania,MRT,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Mauritius,MUS,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Mauritius,MUS,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mauritius,MUS,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mauritius,MUS,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mexico,MEX,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Mexico,MEX,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mexico,MEX,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mexico,MEX,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Micronesia, Fed. Sts.",FSM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Micronesia, Fed. Sts.",FSM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Micronesia, Fed. Sts.",FSM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Micronesia, Fed. Sts.",FSM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Moldova,MDA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,96.1,..,..,..,..,..,..,..,..,..
+Moldova,MDA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Moldova,MDA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Moldova,MDA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Monaco,MCO,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Monaco,MCO,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Monaco,MCO,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Monaco,MCO,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mongolia,MNG,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,99.2,..,..,..
+Mongolia,MNG,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mongolia,MNG,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mongolia,MNG,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Montenegro,MNE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,97.3,..,..,..,..,..,..,..,..
+Montenegro,MNE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Montenegro,MNE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Montenegro,MNE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Morocco,MAR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Morocco,MAR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Morocco,MAR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Morocco,MAR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mozambique,MOZ,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,37.9,..,..,..,..,..,..
+Mozambique,MOZ,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Mozambique,MOZ,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Mozambique,MOZ,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Myanmar,MMR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,74.1,..,..,..,..,..
+Myanmar,MMR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Myanmar,MMR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Myanmar,MMR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Namibia,NAM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,78.1,..,..,..,..,..
+Namibia,NAM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Namibia,NAM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Namibia,NAM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Nauru,NRU,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Nauru,NRU,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Nauru,NRU,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Nauru,NRU,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Nepal,NPL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,71.6,..,..
+Nepal,NPL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Nepal,NPL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Nepal,NPL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Netherlands,NLD,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Netherlands,NLD,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Netherlands,NLD,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Netherlands,NLD,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+New Zealand,NZL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+New Zealand,NZL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+New Zealand,NZL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+New Zealand,NZL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Nicaragua,NIC,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Nicaragua,NIC,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Nicaragua,NIC,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Nicaragua,NIC,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Niger,NER,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,29.3,..,..,..,..,..,..,..,..,..
+Niger,NER,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Niger,NER,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Niger,NER,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Nigeria,NGA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,42.6,..,..,..
+Nigeria,NGA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Nigeria,NGA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Nigeria,NGA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+North Macedonia,MKD,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.2,..,..
+North Macedonia,MKD,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+North Macedonia,MKD,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+North Macedonia,MKD,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Norway,NOR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Norway,NOR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Norway,NOR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Norway,NOR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Oman,OMN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Oman,OMN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Oman,OMN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Oman,OMN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Pakistan,PAK,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,36.1,..,..,..
+Pakistan,PAK,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Pakistan,PAK,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Pakistan,PAK,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Palau,PLW,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Palau,PLW,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Palau,PLW,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Palau,PLW,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Panama,PAN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Panama,PAN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Panama,PAN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Panama,PAN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Papua New Guinea,PNG,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,7.1,..,..,..
+Papua New Guinea,PNG,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Papua New Guinea,PNG,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Papua New Guinea,PNG,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Paraguay,PRY,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Paraguay,PRY,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Peru,PER,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Peru,PER,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Peru,PER,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Peru,PER,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Philippines,PHL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,68.2974691434231,..,..,..,..
+Philippines,PHL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Philippines,PHL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Philippines,PHL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Poland,POL,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Poland,POL,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Poland,POL,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Poland,POL,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Portugal,PRT,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Portugal,PRT,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Portugal,PRT,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Portugal,PRT,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Qatar,QAT,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Qatar,QAT,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Qatar,QAT,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Qatar,QAT,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Romania,ROU,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Romania,ROU,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Romania,ROU,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Romania,ROU,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Russian Federation,RUS,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Russian Federation,RUS,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Russian Federation,RUS,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Russian Federation,RUS,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Rwanda,RWA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,16.6,..
+Rwanda,RWA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Rwanda,RWA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Rwanda,RWA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Samoa,WSM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,59,..
+Samoa,WSM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Samoa,WSM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Samoa,WSM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+San Marino,SMR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+San Marino,SMR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+San Marino,SMR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+San Marino,SMR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Sao Tome and Principe,STP,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,97.9,..,..
+Sao Tome and Principe,STP,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sao Tome and Principe,STP,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Sao Tome and Principe,STP,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Saudi Arabia,SAU,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,99.2,..,..,..
+Saudi Arabia,SAU,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Saudi Arabia,SAU,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Saudi Arabia,SAU,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Senegal,SEN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,72.4,..,..
+Senegal,SEN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Senegal,SEN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Senegal,SEN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Serbia,SRB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,98.8,..,..
+Serbia,SRB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Serbia,SRB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Serbia,SRB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Seychelles,SYC,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Seychelles,SYC,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Seychelles,SYC,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Seychelles,SYC,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Sierra Leone,SLE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,31.3,..,..
+Sierra Leone,SLE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sierra Leone,SLE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sierra Leone,SLE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Singapore,SGP,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Singapore,SGP,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Singapore,SGP,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Singapore,SGP,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Slovak Republic,SVK,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Slovak Republic,SVK,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Slovak Republic,SVK,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Slovak Republic,SVK,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Slovenia,SVN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Slovenia,SVN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Slovenia,SVN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Slovenia,SVN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Solomon Islands,SLB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,26.2,..,..,..,..,..,..
+Solomon Islands,SLB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Solomon Islands,SLB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Solomon Islands,SLB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Somalia,SOM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0.3,..
+Somalia,SOM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Somalia,SOM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Somalia,SOM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+South Africa,ZAF,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Africa,ZAF,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+South Africa,ZAF,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+South Africa,ZAF,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+South Sudan,SSD,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,29.4,..,..,..,..,..,..,..,..,..,..,..
+South Sudan,SSD,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+South Sudan,SSD,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+South Sudan,SSD,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Spain,ESP,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+Spain,ESP,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Spain,ESP,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Spain,ESP,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sri Lanka,LKA,Birth certification (%),ID.OWN.BRTH.ZS,..,80.1,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Sri Lanka,LKA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sri Lanka,LKA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sri Lanka,LKA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+St. Kitts and Nevis,KNA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+St. Kitts and Nevis,KNA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+St. Kitts and Nevis,KNA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+St. Kitts and Nevis,KNA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+St. Lucia,LCA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,69.9,..,..,..,..,..,..,..,..,..
+St. Lucia,LCA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+St. Lucia,LCA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+St. Lucia,LCA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+St. Vincent and the Grenadines,VCT,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+St. Vincent and the Grenadines,VCT,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+St. Vincent and the Grenadines,VCT,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+St. Vincent and the Grenadines,VCT,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Sudan,SDN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,49.8,..,..,..,..,..,..,..
+Sudan,SDN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sudan,SDN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sudan,SDN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Suriname,SUR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,95.4,..,..,..
+Suriname,SUR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Suriname,SUR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Suriname,SUR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Sweden,SWE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+Sweden,SWE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sweden,SWE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Sweden,SWE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Switzerland,CHE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..,..
+Switzerland,CHE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Switzerland,CHE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Switzerland,CHE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Syrian Arab Republic,SYR,Birth certification (%),ID.OWN.BRTH.ZS,91.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Syrian Arab Republic,SYR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Taiwan, China",TWN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Taiwan, China",TWN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Taiwan, China",TWN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Taiwan, China",TWN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Tajikistan,TJK,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,91.4,..,..,..,..
+Tajikistan,TJK,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Tajikistan,TJK,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Tajikistan,TJK,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Tanzania,TZA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,14,..,..,..,..,..
+Tanzania,TZA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Tanzania,TZA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Tanzania,TZA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Thailand,THA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.3,..,..
+Thailand,THA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Thailand,THA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Thailand,THA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Timor-Leste,TLS,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,33.7,..,..,..,..,..
+Timor-Leste,TLS,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Timor-Leste,TLS,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Timor-Leste,TLS,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Togo,TGO,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,75.7,..,..,..,..
+Togo,TGO,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Togo,TGO,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Togo,TGO,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Tonga,TON,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,89.3,..,..
+Tonga,TON,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Tonga,TON,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Tonga,TON,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Trinidad and Tobago,TTO,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,90.5,..,..,..,..,..,..,..,..,..,..
+Trinidad and Tobago,TTO,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Trinidad and Tobago,TTO,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Trinidad and Tobago,TTO,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Tunisia,TUN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,98.1,..,..,..
+Tunisia,TUN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Tunisia,TUN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Tunisia,TUN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Turkiye,TUR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Turkiye,TUR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Turkiye,TUR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Turkiye,TUR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Turkmenistan,TKM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,99.8,..,..
+Turkmenistan,TKM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Turkmenistan,TKM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Turkmenistan,TKM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Turks and Caicos Islands,TCA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,98.5,..
+Turks and Caicos Islands,TCA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Turks and Caicos Islands,TCA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Turks and Caicos Islands,TCA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Tuvalu,TUV,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,79.1,..
+Tuvalu,TUV,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Tuvalu,TUV,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Tuvalu,TUV,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Uganda,UGA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,19.2,..,..,..,..,..
+Uganda,UGA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Uganda,UGA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Uganda,UGA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Ukraine,UKR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,99.4,..,..,..,..,..,..,..,..,..
+Ukraine,UKR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ukraine,UKR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Ukraine,UKR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+United Arab Emirates,ARE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+United Arab Emirates,ARE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+United Arab Emirates,ARE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+United Arab Emirates,ARE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+United Kingdom,GBR,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+United Kingdom,GBR,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+United Kingdom,GBR,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+United Kingdom,GBR,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+United States,USA,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,100,..
+United States,USA,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+United States,USA,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+United States,USA,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Uruguay,URY,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,98.8,..,..,..,..,..,..,..,..
+Uruguay,URY,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Uruguay,URY,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Uruguay,URY,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Uzbekistan,UZB,Birth certification (%),ID.OWN.BRTH.ZS,99.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Uzbekistan,UZB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Uzbekistan,UZB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Uzbekistan,UZB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Vanuatu,VUT,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,43.4,..,..,..,..,..,..,..,..
+Vanuatu,VUT,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Vanuatu,VUT,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Vanuatu,VUT,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Venezuela, RB",VEN,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Venezuela, RB",VEN,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Viet Nam,VNM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,95.4,..,..,..,..,..,..,..
+Viet Nam,VNM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Viet Nam,VNM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Viet Nam,VNM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+West Bank and Gaza,PSE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,98.3,..
+West Bank and Gaza,PSE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+West Bank and Gaza,PSE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+West Bank and Gaza,PSE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+"Yemen, Rep.",YEM,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,15.6,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+"Yemen, Rep.",YEM,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Zambia,ZMB,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,5.9,..,..,..
+Zambia,ZMB,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Zambia,ZMB,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Zambia,ZMB,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+Zimbabwe,ZWE,Birth certification (%),ID.OWN.BRTH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,45,..,..
+Zimbabwe,ZWE,Digital Data Use (1=yes; 0= no),ID.DIG.RECS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Zimbabwe,ZWE,Digital ID Verification (1=yes; 0= no),ID.DIG.AUTH,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1
+Zimbabwe,ZWE,Online Digital Identity (1=yes; 0= no),ID.DIG.AUTH.RM,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,0
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Data from database: Identification for Development (ID4D) Data,,,,,,,,,,,,,,,,,,,
+Last Updated: 12/05/2024,,,,,,,,,,,,,,,,,,,

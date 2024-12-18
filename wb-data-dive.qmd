@@ -1,0 +1,158 @@
+---
+title: "WB Data Dive"
+format: html
+---
+
+```{r}
+library(tidyverse)
+library(wbstats)
+library(janitor)
+```
+
+Let's try to pull the id4d data from the WB API using the `wbstats` package. 
+
+```{r}
+#create list of indicators
+indicators <- c("birth_certification" = "ID.OWN.BRTH.ZS",
+                  "digital_data_use" = "ID.DIG.RECS",
+                  "digital_id_verification" = "ID.DIG.AUTH",
+                  "online_digital_identity" = "ID.DIG.AUTH.RM")
+
+#pull data from World Bank API
+id4d_data <- wb_data(indicators) #|> # download data for last 50 yrs
+  #select(!iso2c) |> # drop the iso2c code which we won't be using
+  #rename(year = date) #|> # rename date to year 
+```
+
+Unfortunately that is not working so we will have to pull in the data manually with a CSV file.
+
+```{r}
+library(tidyr)
+
+id4d_data <- read_csv("data/id4d_data.csv") |>
+  pivot_longer(             # Pivot the data from wide to long form
+    cols = `2006 [YR2006]`:`2021 [YR2021]`, 
+    names_to = "year", 
+    values_to = "value"
+  ) |>
+  clean_names() |>
+  select(-series_code) |>
+  pivot_wider(               # Pivot the data from long to wide form
+    names_from = series_name, 
+    values_from = value
+  ) |>
+  select(!"NA") |>
+  clean_names() |>
+  mutate(year = substring(year, 1, 4)) |> # Truncate year 
+  mutate(
+    across(
+      where(is.list), 
+      ~ map(., ~ if (length(.) == 0 || . == "..") NA else as.numeric(.))
+    )
+  ) |>
+  mutate(
+    across(c(year, birth_certification_percent, digital_data_use_1_yes_0_no, 
+             digital_id_verification_1_yes_0_no,
+             online_digital_identity_1_yes_0_no), as.numeric)
+  )
+
+glimpse(id4d_data)
+```
+
+Let's make a map of birth certificate percentages by country.
+
+```{r}
+library(rnaturalearth)
+source("functions/create_map.R")
+
+filtered_data <- id4d_data |>
+  select(country_name, country_code, year, birth_certification_percent) |> 
+  filter(!is.na(birth_certification_percent)) |> # Exclude missing values
+  group_by(country_name, country_code) |> # Group by country
+  filter(year == max(year)) |> # Keep the most recent year per country
+  ungroup() 
+
+create_map(var_name = "birth_certification_percent",
+           title= "Population with Birth Certificate", 
+           legend_title = "Percent", 
+           theme = "mako", 
+           direction = 1)
+```
+
+Now let's do digital data use.
+
+```{r}
+source("functions/create_map_binary.R")
+
+filtered_data <- id4d_data |>
+  select(country_name, country_code, year, digital_data_use_1_yes_0_no) |> 
+  filter(!is.na(digital_data_use_1_yes_0_no)) |> # Exclude missing values
+  group_by(country_name, country_code) |> # Group by country
+  filter(year == max(year)) |> # Keep the most recent year per country
+  ungroup() |>
+  mutate(digital_data_use_1_yes_0_no = factor(
+    digital_data_use_1_yes_0_no,
+    levels = c(0, 1), # Ensure correct ordering of levels
+    labels = c("No", "Yes") # Add meaningful labels
+  ))
+
+create_map_binary(var_name = "digital_data_use_1_yes_0_no",
+           title = "Digital Data Use",
+           legend_title = "",
+           theme = "mako", 
+           direction = 1)
+```
+
+Digital ID verification.
+
+```{r}
+source("functions/create_map_binary.R")
+
+# Prepare the filtered data for Digital ID Verification
+filtered_data <- id4d_data |>
+  select(country_name, country_code, year, digital_id_verification_1_yes_0_no) |> 
+  filter(!is.na(digital_id_verification_1_yes_0_no)) |> # Exclude missing values
+  group_by(country_name, country_code) |> # Group by country
+  filter(year == max(year)) |> # Keep the most recent year per country
+  ungroup() |>
+  mutate(digital_id_verification_1_yes_0_no = factor(
+    digital_id_verification_1_yes_0_no,
+    levels = c(0, 1), # Ensure correct ordering of levels
+    labels = c("No", "Yes") # Add meaningful labels
+  ))
+
+# Create the map for Digital ID Verification
+create_map_binary(var_name = "digital_id_verification_1_yes_0_no",
+           title = "Digital ID Verification",
+           legend_title = "",
+           theme = "mako", 
+           direction = 1)
+```
+
+
+Online digital identity.
+
+```{r}
+source("functions/create_map_binary.R")
+
+# Prepare the filtered data for Online Digital Identity
+filtered_data <- id4d_data |>
+  select(country_name, country_code, year, online_digital_identity_1_yes_0_no) |> 
+  filter(!is.na(online_digital_identity_1_yes_0_no)) |> # Exclude missing values
+  group_by(country_name, country_code) |> # Group by country
+  filter(year == max(year)) |> # Keep the most recent year per country
+  ungroup() |>
+  mutate(online_digital_identity_1_yes_0_no = factor(
+    online_digital_identity_1_yes_0_no,
+    levels = c(0, 1), # Ensure correct ordering of levels
+    labels = c("No", "Yes") # Add meaningful labels
+  ))
+
+# Create the map for Online Digital Identity
+create_map_binary(var_name = "online_digital_identity_1_yes_0_no",
+           title = "Online Digital Identity",
+           legend_title = "",
+           theme = "mako", 
+           direction = 1)
+```
+
